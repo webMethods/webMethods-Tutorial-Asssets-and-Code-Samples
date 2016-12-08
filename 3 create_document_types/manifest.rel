@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">FLOW_Tutorial_Test</value>
+  <value name="version">1.0</value>
+  <value name="build"></value>
+  <value name="patch_nums"></value>
+  <value name="description"></value>
+  <value name="target_pkg_version">1.0</value>
+  <value name="jvm_version">1.7.0_25</value>
+  <value name="source_server_version">9.5.1.0</value>
+  <value name="target_server_version">9.5.1.0</value>
+  <value name="time">2014-03-31 14:02:25 EDT</value>
+  <value name="type">full</value>
+  <null name="retainPatchHistory"/>
+  <value name="target_pkg_name">FLOW_Tutorial</value>
+  <value name="publisher">MCHMELFI02.eur.ad.sag</value>
+  <array name="files_to_delete" type="value" depth="1">
+  </array>
+</Values>
